@@ -19,7 +19,7 @@ Você pode abrir o projeto diretamente no Google Colab:
 
 ### Passos no Colab:
 1. Abra o link acima.  
-2. Faça upload do arquivo `desafio_indicium_imdb.csv` na aba **Arquivos** do Colab.  
+2. Faça upload do arquivo `desafio_indicium_imdb.csv` na aba **Arquivos** do Colab(caso tenha dado erro faça upload por esse repositorio).  
 3. Execute todas as células do notebook.
 
 O modelo também está salvo em `modelo_imdb.pkl`, caso queira carregar diretamente.  
