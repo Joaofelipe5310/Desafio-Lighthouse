@@ -13,7 +13,8 @@ Este projeto tem como objetivo analisar dados de filmes e prever a **nota do IMD
 ## 🚀 Como executar no Google Colab
 Você pode abrir o projeto diretamente no Google Colab:  
 
-https://colab.research.google.com/drive/1YH8fkKb8Did4ehjeDOXehdQ21um4SBNH?usp=sharing
+[https://colab.research.google.com/drive/1YH8fkKb8Did4ehjeDOXehdQ21um4SBNH?usp=sharing
+](https://colab.research.google.com/drive/1YH8fkKb8Did4ehjeDOXehdQ21um4SBNH?usp=sharing)
 
 ### Passos no Colab:
 1. Abra o link acima.  
