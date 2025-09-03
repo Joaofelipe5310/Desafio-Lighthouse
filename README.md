@@ -5,9 +5,9 @@ Resolução de um desafio proposto pela Lighthouse de analise de dados com anali
 Este projeto tem como objetivo analisar dados de filmes e prever a **nota do IMDB** utilizando técnicas de **Machine Learning**.
 
 ## 📌 Estrutura do Projeto
+A analise exploratoria(EDA) e a modelagem estão no link do colab abaixo.
 - `Relatorio Estagio.pdf`- Relatorio acerca da EDA
-- `desafio_indicium_imdb.csv` → Base de dados utilizada.  
-- `analise_modelagem.ipynb` → Notebook com a análise exploratória (EDA) e modelagem.  
+- `desafio_indicium_imdb.csv` → Base de dados utilizada.    
 - `modelof.pkl` → Modelo treinado salvo em formato `.pkl`.  
 - `versions requirement.txt` → Pacotes necessários para rodar o projeto localmente.  
 
