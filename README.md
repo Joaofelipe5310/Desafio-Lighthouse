@@ -7,8 +7,8 @@ Este projeto tem como objetivo analisar dados de filmes e prever a **nota do IMD
 ## 📌 Estrutura do Projeto
 - `desafio_indicium_imdb.csv` → Base de dados utilizada.  
 - `analise_modelagem.ipynb` → Notebook com a análise exploratória (EDA) e modelagem.  
-- `modelo_imdb.pkl` → Modelo treinado salvo em formato `.pkl`.  
-- `requirements.txt` → Pacotes necessários para rodar o projeto localmente.  
+- `modelof.pkl` → Modelo treinado salvo em formato `.pkl`.  
+- `versions requirement.txt` → Pacotes necessários para rodar o projeto localmente.  
 
 ## 🚀 Como executar no Google Colab
 Você pode abrir o projeto diretamente no Google Colab:  
